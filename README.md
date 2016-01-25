@@ -11,6 +11,7 @@ Diary
 Search
 Nutritional Information
 Settings
+Treatment Reminder screen
 
 Coding
 Merging of two databases
